@@ -1,0 +1,33 @@
+{
+  "name": "codedevcraft",
+  "version": "1.0.2",
+  "description": "codedevcraft",
+  "type": "module",
+  "main": "codedevcraft.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maddysonwn0117/codedevcraft"
+  },
+  "website": "https://github.com/maddysonwn0117/codedevcraft.git",
+  "keywords": [
+    "codedevcraft"
+  ],
+  "author": "maddysonwn0117",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maddysonwn0117/codedevcraft/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/maddysonwn0117/codedevcraft#readme",
+  "dependencies": {
+    "devcraftguru": "1.0.2",
+    "programscriptwhisper": "1.0.2",
+    "devscriptwhiz": "1.0.2"
+  }
+}
